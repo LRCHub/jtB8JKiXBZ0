@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Season",
+  "base_artist": "iri",
+  "createdAt": "2026-02-15T14:44:56.370480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Huntin' Season",
+      "artist": "Mackenzie Carpenter",
+      "has_synced": false,
+      "path": "select/01_Huntin'_Season_Mackenzie_Carpenter.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "寂寞的季节(season of loneliness)",
+      "artist": "陶喆",
+      "has_synced": false,
+      "path": "select/02_寂寞的季节(season_of_loneliness)_陶喆.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Season Of Illusions",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/03_Season_Of_Illusions_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sue (Or In a Season of Crime)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_Sue_(Or_In_a_Season_of_Crime)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Time Of The Season",
+      "artist": "The Zombies",
+      "has_synced": true,
+      "path": "select/05_Time_Of_The_Season_The_Zombies.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Time of the Season (US Radio Spot)",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/06_Time_of_the_Season_(US_Radio_Spot)_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Buzzcut Season",
+      "artist": "Lorde",
+      "has_synced": true,
+      "path": "select/07_Buzzcut_Season_Lorde.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Season and my story.",
+      "artist": "Meychan",
+      "has_synced": true,
+      "path": "select/08_Season_and_my_story._Meychan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Season",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/09_Season_ASH.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Long Dry Season",
+      "artist": "Gino Vannelli",
+      "has_synced": false,
+      "path": "select/10_A_Long_Dry_Season_Gino_Vannelli.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Season Me Right",
+      "artist": "Alcoholic Faith Mission",
+      "has_synced": false,
+      "path": "select/11_Season_Me_Right_Alcoholic_Faith_Mission.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stay Another Season",
+      "artist": "The Avalanches",
+      "has_synced": false,
+      "path": "select/12_Stay_Another_Season_The_Avalanches.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Season",
+      "artist": "iri",
+      "has_synced": false,
+      "path": "select/pl_01_Season_iri.txt"
+    }
+  ]
+}
