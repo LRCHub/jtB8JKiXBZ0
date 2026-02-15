@@ -1,0 +1,79 @@
+# iri – Season
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+あやふやなclapで鳴らす
+今日もcrash
+定期的なbadから抜け出す How?
+痛み割るsoda飲み干す
+like a water
+water
+明け暮れた街に背を向けて
+次の駅降りてあれ違うどこだっけ
+適当な日も買って繋ぎ止めとこ
+hold on
+hold on
+気づかない間に通り過ぎたり
+見失わない　心は叫ぶ
+懐かしい香り
+色褪せた日々の迷いも
+君とまた思い出せる
+どうやらそれほど
+悪くないこの世界は
+ゆらめくほど
+Take me to your world
+Let me know
+Let me know
+すれ違ってく日々も
+ここでまた会えるのも
+格別なSpice深まるOur story
+Let me know
+Let me know
+いつの間にか忘れてた
+涙のわけも
+朝の日が暖かな
+夢の続きを
+あたふたと飛び出す
+何も持たず心ここにない
+置いてきて
+抜け殻がまた蠢いて歌いだす
+夜に飲まれて気づけば夢の中
+ぼんやり嘘みたいな夕暮れ
+こっそりしまい込んだ　甘い声
+二人きりのdreamyな昼下がりを
+目に焼き付けてこれで最後
+沈む肩に何も言わず
+染み込むよ君の笑顔
+どうやらそれほど
+悪くないこの世界は
+ゆらめくほど
+Take me to your world
+Let me know
+Let me know
+すれ違ってく日々も
+ここでまた会えるのも
+格別なSpice深まるOur story
+Let me know
+Let me know
+この先はどんな日が
+挑んでくるの
+重ねては壊れちゃって
+何が見えるの
+当てもない明日も
+変わりゆく人並みも
+カラフルなRoad
+Take me to your world
+Let me know
+Let me know
+ふざけあった僕らも
+駆け抜けるこの時代を
+スレスレのGoal
+Take me to your world
+Let me know
+Let me know
+どうやらそれほど
+悪くないこの世界は
+すれ違ってく日々も
+ここでまた会えるのも
+```
